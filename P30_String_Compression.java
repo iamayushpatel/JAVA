@@ -16,7 +16,7 @@ public class P30_String_Compression {
         }
         return sb.toString();
     }
-
+// A
     public static void main(String[] args) {
         String str = "aaabbcccdd";
         System.out.println(compress(str));
